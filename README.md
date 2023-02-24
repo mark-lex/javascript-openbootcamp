@@ -1,0 +1,2 @@
+- A JS project
+- JS for dummies
