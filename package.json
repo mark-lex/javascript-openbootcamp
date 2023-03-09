@@ -2,10 +2,10 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "First JS project with Node ",
-  "main": "index.js",
+  "main": "./js/index.js",
   "scripts": {
-    "start": "node index.js",
-    "salute": "node hello_world.js",
+    "start": "node ./js/index.js",
+    "salute": "node ./js/hello_world.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
